@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Tiangang Song / Site Title"
+title                    : "Tiangang Song"
 title_separator          : "-"
 name                     : &name "Tiangang Song"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "avatar: "/images/宋天罡.png"
+  avatar           : "avatar: "/images/1.png"
   name             : "Tiangang Song"
   pronouns         : # example: "she/her"  
   bio              : "Peking University"
