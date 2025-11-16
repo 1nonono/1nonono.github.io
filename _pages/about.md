@@ -1,3 +1,12 @@
+---
+permalink: /
+title: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
 I am a first-year graduate student at Peking University Third Hospital, and my research focus is on the Department of Urology, with a primary emphasis on improving male reproductive function.
 
 You can find my CV here: [Tiangang Song's Curriculum Vitae](../assets/1.pdf).
