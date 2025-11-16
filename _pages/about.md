@@ -2,4 +2,4 @@ I am a third-year Ph.D. student in Health Data Science at the [National Institut
 
 You can find my CV here: [XX's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-[Email](mailto:xxx@stu.pku.edu.cn) / [Github](https://github.com/xxx) / [Wechat](../images/wechat.jpg) 
+[Email](mailto:96545827@qq.com) / [Github](https://github.com/) / [Wechat](stg138650365) 
